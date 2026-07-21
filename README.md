@@ -1,6 +1,21 @@
 # UX Research Copilot
 
-Open-source AI assistant for UX researchers.
+AI assistant helping UX researchers analyze qualitative data.
+
+## Problem
+
+UX researchers spend hours analyzing:
+- interview transcripts
+- survey responses
+- research reports
+
+## Solution
+
+Upload research documents and ask questions using RAG.
+
+## Architecture
+
+diagram
 
 ## Features
 
@@ -19,6 +34,16 @@ Open-source AI assistant for UX researchers.
 - ChromaDB
 - LangChain
 - Docker
+
+## Roadmap
+
+[x] API setup
+[x] PDF upload
+[x] PDF text extraction
+[ ] Chunking
+[ ] RAG pipeline
+[ ] Citations
+[ ] Docker
 
 ## Status
 
